@@ -13,10 +13,11 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 💬 Framworks y bibliotecas
 
@@ -39,6 +40,17 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
+### 📌 Proyectos Destacados
+[API Levelviewd](https://github.com/iagorv/tfg-api) : Parte del proyecto fin de ciclo DAM. API RESTful encargada de gestionar la lógica y datos de una red social especializada en críticas de videojuegos.
+
+[Web Levelviewd](https://github.com/iagorv/tfg-api) : Parte del proyecto fin de ciclo DAM. Aplicación web que consume la API de Levelviewd y ofrece una interfaz de usuario para explorar y publicar críticas de videojuegos.
+
+[BiblioTeis](https://github.com/iagorv/BiblioTeis) : Proyecto android realizado durante el módulo de programación de aplicaciones móviles. Se trata de una aplicación de gestión de una biblioteca consumiendo una api proporcionada por el profesor.
+
+[InmoTeis](https://github.com/iagorv/InmoTeis) : Proyecto python con PyQt6 + SQLite realizado durante el módulo de desarrollo de interfaces. Se trata de una aplicación de gestión de una imobiliaria inclutengo generación de PDFs, sistema de backups entre otras funcionalidades.
+
+
 
 
 
