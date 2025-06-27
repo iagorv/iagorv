@@ -21,12 +21,21 @@
 
 ### 💬 Framworks y bibliotecas
 
-### 💬 Lenguajes
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=leaflet&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=java&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat&logo=python&logoColor=white)
+
+
+ ### 🗄️ Bases de datos y herramientas
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-4DB33D?style=flat&logo=mongodb&logoColor=white)
+
 
 ### DevOps & Cloud:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
