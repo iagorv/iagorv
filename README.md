@@ -5,6 +5,7 @@
 ## 👨‍🎓 Sobre mí
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+
 🎓 Técnico Superior en Desarrollo de Aplicaciones Web.
 
 ## 🚀 Tecnologías y Herramientas
@@ -50,12 +51,21 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 
+### 🌐 CMS y plataformas
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white)
+
+
 ## 📌 Proyectos Destacados
 [API Levelviewd](https://github.com/iagorv/tfg-api) : Parte del proyecto fin de ciclo DAM. API RESTful encargada de gestionar la lógica y datos de una red social especializada en críticas de videojuegos.
 
 [Web Levelviewd](https://github.com/iagorv/tfg-api) : Parte del proyecto fin de ciclo DAM. Aplicación web que consume la API de Levelviewd y ofrece una interfaz de usuario para explorar y publicar críticas de videojuegos.
 
-[SpriNotes](https://github.com/CGAInstitution/proyectoud4-skill-tree) : Proyecto hecho en SpringBoot en el módulo de acceso a datos junto con dos compañeros. Aplicación web diseñada para crear y gestionar múltiples escritorios temáticos donde anotar y distribuir sus propias notas
+[SpriNotes](https://github.com/CGAInstitution/proyectoud4-skill-tree) : Proyecto hecho en SpringBoot en el módulo de acceso a datos junto con dos compañeros. Aplicación web diseñada para crear y gestionar múltiples escritorios temáticos donde anotar y distribuir sus propias notas.
+
+[Tutorial Unity](https://github.com/iagorv/PruebaUnity) : Proyecto de prueba de Unity. Hecho a partir de un tutorial añadiendole mejoras propias.
+
 
 [BiblioTeis](https://github.com/iagorv/BiblioTeis) : Proyecto android realizado durante el módulo de programación de aplicaciones móviles. Se trata de una aplicación de gestión de una biblioteca consumiendo una api proporcionada por el profesor.
 
