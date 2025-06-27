@@ -55,17 +55,18 @@
 
 [Web Levelviewd](https://github.com/iagorv/tfg-api) : Parte del proyecto fin de ciclo DAM. Aplicación web que consume la API de Levelviewd y ofrece una interfaz de usuario para explorar y publicar críticas de videojuegos.
 
+[SpriNotes](https://github.com/CGAInstitution/proyectoud4-skill-tree) : Proyecto hecho en SpringBoot en el módulo de acceso a datos junto con dos compañeros. Aplicación web diseñada para crear y gestionar múltiples escritorios temáticos donde anotar y distribuir sus propias notas
+
 [BiblioTeis](https://github.com/iagorv/BiblioTeis) : Proyecto android realizado durante el módulo de programación de aplicaciones móviles. Se trata de una aplicación de gestión de una biblioteca consumiendo una api proporcionada por el profesor.
 
 [InmoTeis](https://github.com/iagorv/InmoTeis) : Proyecto python con PyQt6 + SQLite realizado durante el módulo de desarrollo de interfaces. Se trata de una aplicación de gestión de una imobiliaria inclutengo generación de PDFs, sistema de backups entre otras funcionalidades.
 
-[SpriNotes](https://github.com/CGAInstitution/proyectoud4-skill-tree) : Proyecto hecho en SpringBoot en el módulo de acceso a datos junto con dos compañeros. Aplicación web diseñada para crear y gestionar múltiples escritorios temáticos donde anotar y distribuir sus propias notas
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide=stars,prs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=iagorv&show_icons=true&theme=github_dark&hide=stars,prs)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=iagorv&layout=compact&theme=github_dark)
 
 
 
